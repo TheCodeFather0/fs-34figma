@@ -1,0 +1,12 @@
+@media (max-width: 768px) {
+  nav .links {
+    display: none;
+  }
+  nav .bars {
+    display: block;
+  }
+
+  header .title {
+    width: 80%;
+  }
+}
