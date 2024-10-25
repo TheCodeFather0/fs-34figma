@@ -91,7 +91,7 @@ header .contact_us_btn {
   color: #fff;
   transition: 0.3s;
   font-size: 0.7rem;
-  padding: 10px 30px;
+  padding: 0.6rem 1.5rem;
   border-radius: 4px;
   display: inline-block;
   background-color: #0193dc;
@@ -102,4 +102,10 @@ header .contact_us_btn {
 header .contact_us_btn:hover {
   background-color: transparent;
   box-shadow: 0 0 5px #0193dc;
+}
+
+nav .bars {
+  fill: #fff;
+  cursor: pointer;
+  display: none;
 }
